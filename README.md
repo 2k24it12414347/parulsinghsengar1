@@ -28,7 +28,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB000?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](https://linkedin.com/in/parul-singh-sengar-040383343/)
 [![Email](https://img.shields.io/badge/Email-FFB000?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:2k24.it1.2414347@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FFB000?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/parulsinghsengar1)
+[![GitHub](https://img.shields.io/badge/GitHub-FFB000?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/2k24it12414347)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFB000?style=for-the-badge&logo=leetcode&logoColor=0D1117&labelColor=0D1117)](https://leetcode.com/u/parulsingh8453/)
 
 </div>
